@@ -1,0 +1,117 @@
+body{
+    background-color: #E2DAF1;
+    text-shadow: .5px .5px .5px rgb(61, 61, 61);
+    text-align: justify;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.margin-top-50{
+    margin-top: 50px;
+}
+.margin-top-20{
+    margin-top: 20px;
+}
+.card{
+    padding: 0%;
+    background-color: #ede2ff;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-bottom: 3px solid rgba(87, 87, 87, 0.644);
+    border-right: 3px solid rgba(87, 87, 87, 0.644);
+    border-radius: 10px;
+}
+.navbar{
+    background-color: #5524be;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(78, 78, 78);
+    border-bottom: 3px solid rgba(87, 87, 87, 0.644);
+    
+}
+.navbar-brand{
+    color: white;
+    text-shadow: 1px 1px 1px rgb(78, 78, 78);
+}
+.nav-link{
+    color: white;
+    text-shadow: 1px 1px 1px rgb(78, 78, 78);
+}
+.corpo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box-login{
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    background-color: #5524be;
+    color: white;
+
+    border-radius: 10px;
+    padding: 40px;
+    border-right: 5px solid rgba(32, 32, 32, 0.438);
+    border-bottom: 5px solid rgba(0, 0, 0, 0.644);
+}
+.bloco{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: #5524be;
+    color: white;
+    text-align: center;
+    padding: 0px;
+}
+.box{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #5524be;
+    color: white;
+
+    padding: 5px;
+    
+    border-radius: 10px;
+    
+    border-right: 5px solid rgba(32, 32, 32, 0.438);
+    border-bottom: 5px solid rgba(0, 0, 0, 0.644);
+}
+.imagem{
+    overflow: hidden;
+}
+.form-control{
+    background-color: #d0bef8;
+    border-top: 0px ;
+    border-left: 0px ;
+    border-right: 4px solid rgba(32, 32, 32, 0.438);
+    border-bottom: 4px solid rgba(0, 0, 0, 0.644);
+}
+.footer{
+    margin-top: 12%;
+    color:rgb(143, 143, 143);
+    float:bottom;
+}
+.alert{
+    border-top: 0px ;
+    border-left: 0px ;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+    border-right: 3px solid rgba(32, 32, 32, 0.438);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.644);
+}
+.alerta{
+    color:red;
+    font-weight: bold;
+}
+.letraGrande{
+    font-size:large;
+}
+.letraTexto{
+    font-size:large;
+    text-shadow: 0px 0px 0px;
+}
+.letraPequena{
+    font-size:small;
+}
+.letraFormiga{
+    font-size:smaller;
+}
